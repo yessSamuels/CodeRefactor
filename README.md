@@ -1,4 +1,8 @@
-# CodeRefactor
+OVERVIEW
 
-Creating a user experience for the client needs and wants in the fourth front. This client needs a web base page that can showcase the marketing side along 
-with the technical side on the web-face.
+The story to this assignment is to take the exciting code and improve it by cleaning it and making it more sophisticate and easier to edit and understand. I have made the syntax and sections to indicate what is processing per command. In addition, I added a texture image on the back in order to give the website a more polished look. 
+
+
+
+
+
